@@ -44,7 +44,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
-
+Alt-H3
 Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
