@@ -1,3 +1,13 @@
-h1{
-    color: blue;
+.background-image{
+    background-position: center center;
+    background-image: url("Images/galaxy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+* {
+     margin: 0;
+     padding: 0;
 }
