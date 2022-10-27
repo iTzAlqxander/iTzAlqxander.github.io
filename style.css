@@ -18,9 +18,10 @@ a {
     text-decoration: none;
     padding: 5px;
     border-radius: 100%;
-    position: absolute;
-    left: 600px;
-    top: 460px;
+    /* position: absolute; */
+    position: absolute; top: 60%; left: 50%;
+    /* left: 600px;
+    top: 460px; */
     
     font-size: 18px;
     text-align: center;
