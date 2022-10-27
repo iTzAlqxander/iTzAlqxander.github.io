@@ -10,9 +10,15 @@
 
     <h2>TEST 1</h2>
 
-    <a href="https://www.google.com"
-        <button>click me</button>
-    </a>
+        <button onclicl="doSomething()" style="background-color:blue;color:aqua;border-radius:5px;">click me</button>
+
+        <p id = "test">Hello</p>
+
+        <script>  
+            function doSomething(){
+                document.getElemetById("test").innerHTML = "Goodbye";
+            }
+        </script>
 
     <h3>TEST 2</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
