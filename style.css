@@ -8,7 +8,7 @@ body{
 }
 .btn{
     border: 1px solid #3498db;
-    background-color: none;
+    background-color: red;
     padding: 10px 20px;
     font-size: 20px;
     font-family: "montserrat";
@@ -22,13 +22,13 @@ body{
 .btn3.btn4{
     color: #fff;
 }
-.btn1:hover,.btn2:hover{
+/* .btn1:hover,.btn2:hover{
     color:#fff
 }
 .btn3:hover,.btn4:hover{
     color: #3498db;
-}
-.btn::before{
+} */
+/* .btn::before{
     content: "";
     position: absolute;
     left: 0;
@@ -37,7 +37,7 @@ body{
     background: #3498db;
     z-index: -1;
     transition: 0.8s;
-}
+} */
 /* .btn1::before,.btn3::before{
     top: 0;
     border-radius: 0 0 50% 50%;
